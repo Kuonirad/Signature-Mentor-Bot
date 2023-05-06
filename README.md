@@ -2,6 +2,7 @@
 
 <div align="center">
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/de603098e34145fa90f887e50810a7ef)](https://app.codacy.com/gh/Kuonirad/Signature-Mentor-Bot?utm_source=github.com&utm_medium=referral&utm_content=Kuonirad/Signature-Mentor-Bot&utm_campaign=Badge_Grade)
 [![Build status](https://github.com/TezRomacH/python-package-template/workflows/build/badge.svg?branch=master&event=push)](https://github.com/TezRomacH/python-package-template/actions?query=workflow%3Abuild)
 [![Dependencies Status](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)](https://github.com/TezRomacH/python-package-template/pulls?utf8=%E2%9C%93&q=is%3Apr%20author%3Aapp%2Fdependabot)
 [![🚀 Your next Python package needs a bleeding-edge project structure.](https://img.shields.io/badge/python--package--template-%F0%9F%9A%80-brightgreen)](https://github.com/TezRomacH/python-package-template)
